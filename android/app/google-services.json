@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82736473368",
+    "project_id": "stoktakip-fc24d",
+    "storage_bucket": "stoktakip-fc24d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82736473368:android:249d65489a9c881e1eaa6d",
+        "android_client_info": {
+          "package_name": "com.example.stok_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6gZ4wDnT7KWYrHYyjGX70M0GDWyontgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
